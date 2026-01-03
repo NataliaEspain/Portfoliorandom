@@ -1,5 +1,0 @@
-negro: #262624
-naranja oscuro: #F28322
-naranja claro: #F2B33D
-violeta:#8C5CF2
-cremita: #F2F2F2
